@@ -9,6 +9,7 @@
   "author": "Tyler Mok",
   "license": "MIT",
   "dependencies": {
+    "comment-bot": "^1.0.1",
     "dotenv": "^7.0.0",
     "snoostorm": "^0.0.5",
     "snoowrap": "^1.14.1"
